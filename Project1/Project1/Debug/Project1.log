@@ -1,0 +1,17 @@
+﻿  Source.cpp
+c:\users\android-8fe6a54c1\desktop\c++\project1\project1\source.cpp(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\android-8fe6a54c1\desktop\c++\project1\project1\source.cpp(171): warning C4474: 'swprintf' : too many arguments passed for format string
+  c:\users\android-8fe6a54c1\desktop\c++\project1\project1\source.cpp(171): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\android-8fe6a54c1\desktop\c++\project1\project1\source.cpp(172): warning C4474: 'swprintf' : too many arguments passed for format string
+  c:\users\android-8fe6a54c1\desktop\c++\project1\project1\source.cpp(172): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\android-8fe6a54c1\desktop\c++\project1\project1\source.cpp(173): warning C4129: 'F': unrecognized character escape sequence
+c:\users\android-8fe6a54c1\desktop\c++\project1\project1\source.cpp(173): warning C4474: 'swprintf' : too many arguments passed for format string
+  c:\users\android-8fe6a54c1\desktop\c++\project1\project1\source.cpp(173): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\android-8fe6a54c1\desktop\c++\project1\project1\source.cpp(496): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\android-8fe6a54c1\desktop\c++\project1\project1\source.cpp(558): warning C4474: 'swprintf' : too many arguments passed for format string
+  c:\users\android-8fe6a54c1\desktop\c++\project1\project1\source.cpp(558): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\android-8fe6a54c1\desktop\c++\project1\project1\source.cpp(560): warning C4474: 'swprintf' : too many arguments passed for format string
+  c:\users\android-8fe6a54c1\desktop\c++\project1\project1\source.cpp(560): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\android-8fe6a54c1\desktop\c++\project1\project1\source.cpp(561): warning C4474: 'swprintf' : too many arguments passed for format string
+  c:\users\android-8fe6a54c1\desktop\c++\project1\project1\source.cpp(561): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+  Project1.vcxproj -> C:\Users\Android-8fe6a54c1\Desktop\C++\Project1\Debug\Project1.exe
